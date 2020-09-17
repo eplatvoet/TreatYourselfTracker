@@ -40,5 +40,6 @@ Feel free to fork the repository if any upgrades/features can be implemented. I 
 [HEROKU](https://treatyourselftracker.herokuapp.com/)  
 
 ## SCREENSHOTS
-![GIF]()  
-![Screenshot]()
+![GIF](screenshot/TreatYourself1.gif)  
+![GIF offline capabilities](screenshot/TreatYourself2.gif)  
+![Screenshot](screenshot/tyt1.png)
