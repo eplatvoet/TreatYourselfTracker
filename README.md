@@ -47,16 +47,21 @@ THEN that will be shown on the page, and added to their transaction history when
 - [SCREENSHOTS](#SCREENSHOTS)  
 
 ## DESCRIPTION
-Description goes here ...
+Welcome to Treat Yourself Tracker - an application that allows the user to update their 
 
 ## LICENSE
 NONE
 
 ## INSTALLATION
-Install info goes here...
+Run "npm i" to install all packages.
 
 ## TECHNOLOGIES
-Testing info goes here ...
+- JavaScript  
+  - express.js
+
+- MongoDB  
+- Mongoose  
+- 
 
 ## QUESTIONS
 Need to know info goes here ...  
