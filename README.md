@@ -63,17 +63,17 @@ Run "npm i" to install all packages.
 - Mongoose  
 - Cache  
 - IndexedDB  
-- 
 
-## QUESTIONS
-Need to know info goes here ...  
+## QUESTIONS 
 My GitHub username is *eplatvoet* & my profile can be found [here](https://github.com/eplatvoet) 
 
 ## CONTRIBUTIONS
-Contribution info goes here. ..  
-I can be reached at erin.didomenico520@gmail.com if you have any other questions about this repository.
+Feel free to fork the repository if any upgrades/features can be implemented. I can be reached at erin.didomenico520@gmail.com if you have any other questions about this repository.
 
 ## LINKS
+[REPO](https://github.com/eplatvoet/TreatYourselfTracker)  
+[HEROKU](https://treatyourselftracker.herokuapp.com/)  
 
 ## SCREENSHOTS
-
+![GIF]()  
+![Screenshot]()
