@@ -47,7 +47,8 @@ THEN that will be shown on the page, and added to their transaction history when
 - [SCREENSHOTS](#SCREENSHOTS)  
 
 ## DESCRIPTION
-Welcome to Treat Yourself Tracker - an application that allows the user to update their 
+Welcome to Treat Yourself Tracker - an application that allows the user to allows the user to document purchases & deposits, both online and offline. Perfect for a traveler who may not always have access to WiFi! Since keeping track of one's money is vital, I wanted the user to be have to have offline functionality so they can have the most up-to-date information at all times! No more searching for public wifi, hotspots, or wasting data! Enjoy the ease of the Treat Yourself Tracker as you treat yourself!  
+![TREATYOSELF](https://64.media.tumblr.com/860bf46c06902ad800868dd9792704f6/tumblr_inline_pin2ghNPx81qja3tq_250.gifv)
 
 ## LICENSE
 NONE
@@ -58,9 +59,10 @@ Run "npm i" to install all packages.
 ## TECHNOLOGIES
 - JavaScript  
   - express.js
-
-- MongoDB  
+- MongoDB/Atlas  
 - Mongoose  
+- Cache  
+- IndexedDB  
 - 
 
 ## QUESTIONS

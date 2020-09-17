@@ -6,7 +6,9 @@ const FILES_TO_CACHE = [
     '/icons/icon-192x192.png',
     '/icons/icon-512x512.png',
     '/index.js',
-    '/styles.css'
+    '/styles.css',
+    '/assets/prty.jpg',
+    '/assets/tylettering.jpg'
 ];
 
 const PRECACHE = 'precache-v1';
